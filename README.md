@@ -2,10 +2,16 @@
   <img src="https://cdn.awsli.com.br/1804/1804496/logo/c7f883211a.png" alt="preview"/>
 </p>
 
-## CamiCraftStore - Android App
+## CamiCraftStore
+![Screenshot](https://raw.githubusercontent.com/leonribeiro/CamiCraftStore/master/img/Screenshot.png)
 
-This Android application was built for the retail store Cami Craft using:
-- Arch Linux :)
+## About This Project
+Cami Craft Store is a retail online stroe. The idea of the application is to expose the brand, expand trades and increase sales.
+
+## Built With
 - Android Studio
-- VSCode 
-- Flutter
+- VSCode
+- Java
+- JavaScript
+- CSS
+- HTML
