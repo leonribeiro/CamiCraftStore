@@ -8,7 +8,7 @@
 ## About This Project
 Cami Craft Store is a retail online stroe. The idea of the application is to expose the brand, expand trades and increase sales.
 
-App on Google Play:
+Download the App on Google Play:
 - [Cami Craft Store](https://play.google.com/store/apps/details?id=com.camicraft)
 
 ## Built With
