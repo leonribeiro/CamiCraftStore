@@ -6,7 +6,7 @@
 ![Screenshot](https://raw.githubusercontent.com/leonribeiro/CamiCraftStore/master/img/Screenshot.png)
 
 ## About This Project
-Cami Craft Store is a retail online stroe. The idea of the application is to expose the brand, expand trades and increase sales.
+Cami Craft Store is a retail online store. The idea of the application is to expose the brand, expand trades and increase sales.
 
 Download the App on Google Play:
 - [Cami Craft Store](https://play.google.com/store/apps/details?id=com.camicraft)
